@@ -43,3 +43,41 @@ kılavuz.
     paylaşırken rahat hissettiği bir ortam yaratın. Kod yazan ekibin sizde
     olmayan bir çok fikri olabilir. Takımınıza güvenin. Daha iyi kararlar
     verdiğinizi göreceksiniz.
+15. İyi kararlar konusundaki sezgilerinizi geliştirmek ve takımınızla iyi
+    ilişkiler inşa etmek işin büyük kısmını halletmek demektir. Teknik ekip
+    yönetmek için orta dolaşan bir sürü metodlar, yöntemler çok büyük fark
+    yaratmayacaktır. Bunlarla ancak iyi bir yöneticiyseniz daha iyi, kötü bir
+    yöneticiyseniz de daha kötü olursunuz.
+
+## İNSANLAR ve Duygular
+
+16. Yöneticilik, kültürümüzde çok havalı ve önemsenen bir şeydir ama
+    nihayetinde o da sahip olduğumuz diğer yeteklerimiz gibidir. Prestijli,
+    havalı olmak dikkatinizi dağıtır, değişken ve biraz da rasgele bir
+    durumdur. Herhangi birinden daha iyi olduğunuzu düşünmeyin. Ünvanınızı ve
+    getirdiği prestiji ne kadar çabuk atlatırsanız işinizi iyi yapmaya o kadar
+    çabuk odaklanabilirsiniz.
+17. Yönetici olmak insanların sizi küçümsemesine neden olabilir. Görmezden
+    gelin. Yöneticilerin faydasız olduğuna inanan kişiler, başarılı bir insan
+    organizasyonu oluşturmanın dinamiklerinden genelde habersizdirler.
+18. Eğer bir şeylerin ters gittiğini düşünüyorsanız muhtemelen haklısınız.
+    Kimsenin düşündüklerinizi baskılamasına müsaade etmeyin.
+19. Eğer kendinizi birilerini suçlarken bulursanız, muhtemelen yanılıyorsunuz.
+    Kimse sabah yataktan bugün işimi kötü yapacağım diye kalkmaz. Çoğu zaman
+    **insanlarla konuşarak** sorunu çözebilirsiniz.
+20. Çoğu insan duygularını kolaylıkla paylaşmaz. Takımınızla sık sık resmi
+    olmayan konuşmalar yapın, sorun olabilecek konuları yakalayın ve
+    çözebiliyorsanız çözün.
+21. Takımınız sizden liderlik bekler. Kimsenin dile getirmediği ama söylenmesi
+    gerekenleri söylemekten çekinmeyin.
+22. Takımınızın henüz farkında olmayabileceği iletişim problemlerini tespit
+    etmek ve çözmek için para alıyorsunuz. Herkesin bilmesi gereken ancak
+    bilmediği konuları konuşmaktan çekinmeyin.
+23. Gerçekten iyi çalışanlar işe alın ve sonrasında onlara tamamen güvenin.
+    Performansı aylık ya da 3 aylık dönemlerde ölçün ve gerekiyorsa, kovun.
+    İnsanları günlük olarak ölçmeyin. Bu herkesi (siz de dahil) sıkıntıya
+    sokar. 
+24. Bir çok nesnel gözüken tartışma çoğu zaman güçlü duygusal zemine sahiptir.
+    Bunları farketmeyi öğrendikçe çok daha verimli ve etkili olacaksınız.
+
+## Arabuluculuk ve Çatışmalar
