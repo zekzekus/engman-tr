@@ -10,7 +10,7 @@ kılavuz.
 
 1. Yeteneği kendinize çekin, yetiştirin, yol gösterin ve el üstünde tutun.
    Sorunları erken yakalamak için konuşun ve yapabiliyorsanız sorunu çözün.
-2. ?
+2. (TODO)
 3. Geliştirme ekibi fikir birliğine varamadığında karaı verin.
 4. Bir bilgi merkezi gibi olun. Her geliştiricinin hangi konu üzerinde
    çalıştığından haberiniz olsun.
@@ -81,3 +81,56 @@ kılavuz.
     Bunları farketmeyi öğrendikçe çok daha verimli ve etkili olacaksınız.
 
 ## Arabuluculuk ve Çatışmalar
+
+25. Çabucak yargılara varmayın. Genelde düşündüğünüzden daha nadir
+    haklısınızdır. Bir konuda haklı olduğunuzdan kesinlikle emin bile olsanız,
+    herkesin fikri ortaya konana kadar bekleyin.
+26. Herkes fikrini söylediğinde konuyu toparlayıp özetleyin. Her görüş ile
+    ilgili katıldığınız kısımları belirtin ve herkesin katkısına açık
+    olduğunuzu gösterin. Ardından kararınızı verin.
+27. Kararınızı verdiğinizde arkasında durun. Takımın çok sesi çıkanların
+    sürüklediği bir tartışma çemberine girmesine müsaade etmeyin.
+28. Eğer çok önemli yeni bir bilgi ortaya çıkarsa tartışmayı yeniden açın.
+29. Fikir ayrılığı kişisel bir noktaya taşınırsa ve insanlar iyi niyetli,
+    anlamlı argümanları bile kabul etmiyorsa bu bir çatışmaya dönüşür.
+30. Bir çok çatışma insanlar yeterince önemsendiklerini hissetmediğinden ortaya
+    çıkar. Her takım üyesi ile ayrı ayrı konuşun ve konu hakkında ne
+    hissettiklerini sorun. Dikkatlice dinleyin ve tekrar sorun. Ve tekrar
+    sorun. Ardından aldığınız cevapları ona özetleyin. Çoğu zaman bu sorunu
+    çözer.
+31. Eğer herkesin fikirlerini ve hissettiklerini ögrenmek için yeterince zaman
+    harcadıktan sonra da çatışma devam ediyorsa sıkıntılı bir görüşme yapmanın
+    zamanı gelmiştir.
+
+## Zor Konuşmalar
+
+32. Zor konuşmaları zaman kaybetmeksizin yapın. Beklemek sadece durumu daha da
+    kötüleştirir.
+33. Asla varsayımlarla sonuçlara varmayın. İnsanları kafanızda
+    şeytanlaştırmayın.
+34. Her zaman nazik bir üslup kullanın. İnsanları kırmadan eleştirmenin en iyi
+    yoludur. Bu bir yönetici hevesi gibi görünebilir ama gerçekten işe yarar.
+35. Ne hissetiğinizi ve ne beklediğinizi belirtmekten çekinmeyin. İnsanlar
+    birbirlerinin hassasiyetlerine meraklıdır ama kendi hassasiyetleri
+    tarafından savunulurlar. Hassasiyet zayıflık değildir. (TODO) 
+36. (TODO)
+
+## Sınırlar
+
+37. İnsanlar sizi sınırlarızı öğrenmek için zorlayacaktır. Ne zaman geri
+    çekileceğinizi ve sağlama durmanız gerektiğini bilmek mücadelenin yarısı
+    demektir.
+38. Er ya da geç birileri fazla ileri gidecektir. Bu olduğunda, sınırı
+    bildirmelisiniz. Yoksa takım içindeki otoritenizi yitirirsiniz.
+39. Katı bir "Katılmıyorum" genellikle yeterli olur.
+40. Gülünecek bir şey olmadığını düşünüyorsanız gülmeyin. Gerçek duygularınızı
+    göstermekten çekinmeyin.
+41. Her aynı kişiye bir çok kez "Katılmıyorum" demek zorunda kalıyorsanız, onu
+    kovmak sizin göreviniz.
+42. Bir manyak olmadığınız sürece insanları kovmak oldukça zor gelecektir ve
+    bunu yapmamak için bahaneler üretebilirsiniz. (TODO)
+43. İnsanların sizi inanamadığınız kararlara itmelerine izin vermeyin. Daha
+    sonra o karardan sizi sorumlu tutacaklar ve bunda da haklı olacaklar.
+    Kararlar sizin sorumluluğunuz.
+44. Kendinize inanın. Eğer at üzerinde komik göründüğünüzü düşünüyorsanız, bir
+    süvari hücmuna öncülük edemezsiniz.
