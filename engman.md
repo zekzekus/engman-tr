@@ -11,11 +11,11 @@ kılavuz.
 1. Yeteneği kendinize çekin, yetiştirin, yol gösterin ve el üstünde tutun.
    Sorunları erken yakalamak için konuşun ve yapabiliyorsanız sorunu çözün.
 2. (TODO)
-3. Geliştirme ekibi fikir birliğine varamadığında karaı verin.
+3. Geliştirme ekibi fikir birliğine varamadığında kararı verin.
 4. Bir bilgi merkezi gibi olun. Her geliştiricinin hangi konu üzerinde
    çalıştığından haberiniz olsun.
-5. Yönetimsel işleri destkleyin. İşleri takvimlendirin, release koordinasyonunu
-   yapın. Bürokratik sistemin işlediğinden emin olun.
+5. Yönetimsel işlerde destek sağlayın. İşleri takvimlendirin, sürüm yapın.
+   Bürokratik sistemin işlediğinden emin olun.
 6. Davranış ve performans standartlarını zorlayın. Kabadayıları ve düşük
    performans gösterenleri kovun.
 
@@ -39,20 +39,20 @@ kılavuz.
     tartışmasına ve kendi kararlarını almasına imkan sağlayın.
 13. Gerektiğinde karar verin. Yavaşlamış, takılıp kalmış bir takım kadar moral
     bozucu çok şey yoktur.
-14. Gerektiği ana kadar fikirlerini ortalığa saçmayın. Herkesin fikirlerini
+14. Gerektiği ana kadar fikirleri ortalığa saçmayın. Herkesin fikirlerini
     paylaşırken rahat hissettiği bir ortam yaratın. Kod yazan ekibin sizde
     olmayan bir çok fikri olabilir. Takımınıza güvenin. Daha iyi kararlar
     verdiğinizi göreceksiniz.
 15. İyi kararlar konusundaki sezgilerinizi geliştirmek ve takımınızla iyi
     ilişkiler inşa etmek işin büyük kısmını halletmek demektir. Teknik ekip
-    yönetmek için orta dolaşan bir sürü metodlar, yöntemler çok büyük fark
+    yönetmek için ortada dolaşan bir sürü metodlar, yöntemler çok büyük fark
     yaratmayacaktır. Bunlarla ancak iyi bir yöneticiyseniz daha iyi, kötü bir
     yöneticiyseniz de daha kötü olursunuz.
 
 ## İNSANLAR ve Duygular
 
 16. Yöneticilik, kültürümüzde çok havalı ve önemsenen bir şeydir ama
-    nihayetinde o da sahip olduğumuz diğer yeteklerimiz gibidir. Prestijli,
+    nihayetinde o da sahip olduğumuz diğer yeteneklerimiz gibidir. Prestijli,
     havalı olmak dikkatinizi dağıtır, değişken ve biraz da rasgele bir
     durumdur. Herhangi birinden daha iyi olduğunuzu düşünmeyin. Ünvanınızı ve
     getirdiği prestiji ne kadar çabuk atlatırsanız işinizi iyi yapmaya o kadar
@@ -64,7 +64,7 @@ kılavuz.
     Kimsenin düşündüklerinizi baskılamasına müsaade etmeyin.
 19. Eğer kendinizi birilerini suçlarken bulursanız, muhtemelen yanılıyorsunuz.
     Kimse sabah yataktan bugün işimi kötü yapacağım diye kalkmaz. Çoğu zaman
-    **insanlarla konuşarak** sorunu çözebilirsiniz.
+    sadece **insanlarla konuşarak** sorunu çözebilirsiniz.
 20. Çoğu insan duygularını kolaylıkla paylaşmaz. Takımınızla sık sık resmi
     olmayan konuşmalar yapın, sorun olabilecek konuları yakalayın ve
     çözebiliyorsanız çözün.
@@ -118,19 +118,19 @@ kılavuz.
 ## Sınırlar
 
 37. İnsanlar sizi sınırlarızı öğrenmek için zorlayacaktır. Ne zaman geri
-    çekileceğinizi ve sağlama durmanız gerektiğini bilmek mücadelenin yarısı
+    çekileceğinizi ve sağlam durmanız gerektiğini bilmek mücadelenin yarısı
     demektir.
 38. Er ya da geç birileri fazla ileri gidecektir. Bu olduğunda, sınırı
     bildirmelisiniz. Yoksa takım içindeki otoritenizi yitirirsiniz.
-39. Katı bir "Katılmıyorum" genellikle yeterli olur.
+39. Kararlı bir "Katılmıyorum" genellikle yeterli olur.
 40. Gülünecek bir şey olmadığını düşünüyorsanız gülmeyin. Gerçek duygularınızı
     göstermekten çekinmeyin.
-41. Her aynı kişiye bir çok kez "Katılmıyorum" demek zorunda kalıyorsanız, onu
+41. Hep aynı kişiye bir çok kez "Katılmıyorum" demek zorunda kalıyorsanız, onu
     kovmak sizin göreviniz.
-42. Bir manyak olmadığınız sürece insanları kovmak oldukça zor gelecektir ve
+42. Bir manyak değilseniz insanları kovmak oldukça zor gelecektir ve
     bunu yapmamak için bahaneler üretebilirsiniz. (TODO)
 43. İnsanların sizi inanamadığınız kararlara itmelerine izin vermeyin. Daha
     sonra o karardan sizi sorumlu tutacaklar ve bunda da haklı olacaklar.
     Kararlar sizin sorumluluğunuz.
 44. Kendinize inanın. Eğer at üzerinde komik göründüğünüzü düşünüyorsanız, bir
-    süvari hücmuna öncülük edemezsiniz.
+    süvari hücumuna öncülük edemezsiniz.
